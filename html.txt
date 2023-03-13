@@ -1,0 +1,46 @@
+<html>
+
+<head>
+
+<title> hello world</title> <meta charset="UTF-8">
+
+<style>
+
+
+h2 {
+
+color:Pink;
+
+font-size: 40px;
+
+margin: 40px;
+
+background-color: Purple;
+
+text-align:center;
+
+}
+
+p{
+
+color: Black;
+
+font-size: 50px;
+
+text-align:center;
+
+font-style:Arial;
+
+</style>
+
+</head>
+
+<body>
+
+<h2> I AM YOURS,  </h2>
+
+<p> YOU ARE MINE </p>
+
+</body>
+
+</html>
